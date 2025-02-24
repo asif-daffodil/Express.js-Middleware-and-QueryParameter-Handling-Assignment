@@ -1,0 +1,25 @@
+{
+  "name": "express.js-middleware-and-queryparameter-handling-assignment",
+  "version": "1.0.0",
+  "description": "This assignment focuses on creating and using middleware in an Express.js application. You will build an application that handles query strings and route parameters using middleware functions for validation and response control.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asif-daffodil/Express.js-Middleware-and-QueryParameter-Handling-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asif-daffodil/Express.js-Middleware-and-QueryParameter-Handling-Assignment/issues"
+  },
+  "homepage": "https://github.com/asif-daffodil/Express.js-Middleware-and-QueryParameter-Handling-Assignment#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
